@@ -1,0 +1,11 @@
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\VirusScan.exe.config
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\VirusScan.exe
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\VirusScan.pdb
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\obj\Debug\VirusScan.csproj.AssemblyReference.cache
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\obj\Debug\VirusScan.csproj.CoreCompileInputs.cache
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\obj\Debug\VirusScan.exe
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\obj\Debug\VirusScan.pdb
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\VirusTotalNet.dll
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amaca\OneDrive\Desktop\Developement\virus-scanner\VirusScan\VirusScan\obj\Debug\VirusScan.csproj.CopyComplete
